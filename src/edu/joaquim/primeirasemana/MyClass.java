@@ -3,7 +3,7 @@ package edu.joaquim.primeirasemana;
 public class MyClass {
     public static void main(String[] args) {
         String primeiro = "Joaquim";
-        String segundo = "Neto";
+        String segundo = "NetOO";
         String nomeCompleto2 = nomeCompleto(primeiro, segundo);
 
         System.out.println(nomeCompleto2);
