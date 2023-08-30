@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e655ef-307d-4d61-b41e-c96cd647541a" name="Changes" comment="primeiro-commit">
-      <change afterPath="$PROJECT_DIR$/src/MyClass.java" afterDir="false" />
+    <list default="true" id="f2e655ef-307d-4d61-b41e-c96cd647541a" name="Changes" comment="somando strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       </method>
     </configuration>
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyClass" />
+      <option name="MAIN_CLASS_NAME" value="edu.joaquim.primeirasemana.MyClass" />
       <module name="java-estudos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,7 +93,7 @@
       <workItem from="1692722210157" duration="2624000" />
       <workItem from="1692804839886" duration="23000" />
       <workItem from="1692970054751" duration="57000" />
-      <workItem from="1693323796766" duration="677000" />
+      <workItem from="1693323796766" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro-commit">
       <option name="closed" value="true" />
@@ -105,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692687111950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="somando strings">
+      <option name="closed" value="true" />
+      <created>1693324505367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693324505367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro-commit" />
+    <MESSAGE value="somando strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="somando strings" />
   </component>
 </project>
