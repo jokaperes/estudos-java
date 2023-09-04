@@ -1,7 +1,7 @@
 package edu.joaquim.primeirasemana;
 
 
-public class MyClass {
+public class tipos_e_variaveis {
     public static void main(String[] args) {
         String primeiro = "Joaquim";
         String segundo = "Neto";
